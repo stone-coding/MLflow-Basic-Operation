@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/f3ab931409bf461a94c1d906191fba2a/artifacts
+end_time: 1756401121103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3ab931409bf461a94c1d906191fba2a
+run_name: useful-boar-337
+run_uuid: f3ab931409bf461a94c1d906191fba2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756401119249
+status: 4
+tags: []
+user_id: stone

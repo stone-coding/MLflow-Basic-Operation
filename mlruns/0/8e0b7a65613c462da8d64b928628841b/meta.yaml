@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/8e0b7a65613c462da8d64b928628841b/artifacts
+end_time: 1756402527014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e0b7a65613c462da8d64b928628841b
+run_name: shivering-eel-12
+run_uuid: 8e0b7a65613c462da8d64b928628841b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756402525171
+status: 4
+tags: []
+user_id: stone

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/6cd482a51c654a459987e7ae1f83adb2/artifacts
+end_time: 1756868179507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cd482a51c654a459987e7ae1f83adb2
+run_name: polite-whale-99
+run_uuid: 6cd482a51c654a459987e7ae1f83adb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756868176745
+status: 3
+tags: []
+user_id: stone
